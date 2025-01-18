@@ -1,0 +1,16 @@
+{
+  "name": "Inspeção de Produtos Perigosos",
+  "short_name": "Inspeção PP",
+  "description": "Aplicativo para auxiliar na fiscalização de transporte de produtos perigosos",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#2563eb",
+  "icons": [
+    {
+      "src": "https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/truck.svg",
+      "sizes": "192x192",
+      "type": "image/svg+xml"
+    }
+  ]
+}
